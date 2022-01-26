@@ -1,4 +1,4 @@
-# CadaSeries
+# CadSeries
 Gerenciamento de séries com .Net aplicando os fundamentos de POO.
 
 Contem as seguinte funcionalidades: 

@@ -1,0 +1,15 @@
+D:\projetos\POO\CadSeries\CadSeries\bin\Debug\net6.0\CadSeries.exe
+D:\projetos\POO\CadSeries\CadSeries\bin\Debug\net6.0\CadSeries.deps.json
+D:\projetos\POO\CadSeries\CadSeries\bin\Debug\net6.0\CadSeries.runtimeconfig.json
+D:\projetos\POO\CadSeries\CadSeries\bin\Debug\net6.0\CadSeries.dll
+D:\projetos\POO\CadSeries\CadSeries\bin\Debug\net6.0\ref\CadSeries.dll
+D:\projetos\POO\CadSeries\CadSeries\bin\Debug\net6.0\CadSeries.pdb
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.csproj.AssemblyReference.cache
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.AssemblyInfoInputs.cache
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.AssemblyInfo.cs
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.csproj.CoreCompileInputs.cache
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.dll
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\ref\CadSeries.dll
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.pdb
+D:\projetos\POO\CadSeries\CadSeries\obj\Debug\net6.0\CadSeries.genruntimeconfig.cache
